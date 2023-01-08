@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hey there! 👋
+
+<div align="justify">
+  My name is Vienna. I am self-taught in learning programming. currently, I am on a full-stack path.
+</div>
+
+
 
 <!--
 **viennao/viennao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
